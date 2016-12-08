@@ -19,6 +19,7 @@
             }
             base.Dispose(disposing);
         }
+        //test pane
 
         #region Codice generato da Progettazione Windows Form
 
